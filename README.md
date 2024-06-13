@@ -1,1 +1,1 @@
-# landing-page-odin
+This is mini project done by me while continuing The Odin project for the fullfillment of the requirement of html and css.
